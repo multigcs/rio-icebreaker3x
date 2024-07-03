@@ -1,4 +1,4 @@
-# rio-octobot
+# rio-icebreaker3x
 3 Axis LinuxCNC-RIO adapter-board - for the icebreaker v1.0e FPGA-Devboard - kicad project 
  
 experimental - not tested yet

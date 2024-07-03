@@ -3,6 +3,7 @@
  
 experimental - not tested yet
 
+![rio-icebreaker3x](./rio-icebreaker3x.png)
 
 ## software / gateware
 https://github.com/multigcs/riocore

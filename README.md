@@ -5,6 +5,9 @@ experimental - not tested yet
 
 ![rio-icebreaker3x](./rio-icebreaker3x.png)
 
+works also on Colorlite_i5 (extboard v1.2)
+![colorlite_i5](./colorlite_i5.jpg)
+
 ## software / gateware
 https://github.com/multigcs/riocore
 

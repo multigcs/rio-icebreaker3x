@@ -1,8 +1,6 @@
 # rio-icebreaker3x
 3 Axis LinuxCNC-RIO adapter-board - for the icebreaker v1.0e FPGA-Devboard - kicad project 
  
-experimental - not tested yet
-
 ![rio-icebreaker3x](./rio-icebreaker3x.png)
 
 works also on Colorlite_i5 (extboard v1.2)
